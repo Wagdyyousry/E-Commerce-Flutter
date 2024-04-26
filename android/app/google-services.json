@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "312864139657",
+    "project_id": "e-commerce-flutter-f7d0b",
+    "storage_bucket": "e-commerce-flutter-f7d0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312864139657:android:8cd0dd34b67563f66d5958",
+        "android_client_info": {
+          "package_name": "com.wagdyBuild.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312864139657-7bl56p89ctbosbeobsfqlph59fk6j5mt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wagdyBuild.ecommerce",
+            "certificate_hash": "c0d9de6b7fbff28e25c21f3f63e1ce4381345717"
+          }
+        },
+        {
+          "client_id": "312864139657-jen945s8ukf0088dur1a40ho2ak0197v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgdcIhWFuSXV1SLo6tGU-UD1DT082PT5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312864139657-jen945s8ukf0088dur1a40ho2ak0197v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "312864139657-egv8km9mhg8jgvrqr0ak45mbbo65k8eh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wagdyBuild.ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
