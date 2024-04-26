@@ -61,3 +61,13 @@ class MyApp extends StatelessWidget {
     }
   }
 }
+/*
+An e-commerce app allows users to buy any product with specific size and colors and prices, Rate the products and see all reviews and more ☺️.
+built using -
+🔻flutter with dart.
+🔻MVC architecture patterns.
+🔻Firebase(Firestore, auth, storage)
+🔻Google Auth & Email Auth.
+🔻State management ( Getx ).
+🔻SqfLite as local database.
+**/
